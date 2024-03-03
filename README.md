@@ -12,7 +12,7 @@
 ![1659312981674](https://github.com/justinjabo250/Introduction-to-the-machine-learning-project-that-delves-deeply-into-categories-algorithms-models/assets/115732734/4f2cf97a-ff04-4142-879e-6659a2bf418b)
 
 
-My primary goal is to conduct a thorough analysis of each of these categories, therefore I must provide a report with clear explanations, helpful examples, and information on which industries each of the designated categories may be applied to as well as where these kills can be implemented. 
+**My primary goal is to conduct a thorough analysis of each of these categories, therefore I must provide a report with clear explanations, helpful examples, and information on which industries each of the designated categories may be applied to as well as where these kills can be implemented.** 
 
 
 --------------
