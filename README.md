@@ -1,0 +1,2 @@
+# Introduction-to-the-machine-learning-project-that-delves-deeply-into-categories-algorithms-models
+With the goal to provide extensive and interesting, insightful and valuable knowledge on all four types of machine learning—supervised, unsupervised, semi-supervised, and reinforcement learning—I decided to delve deeply into everything connected to an Introduction to Machine Learning project in this project. to make machine learning more sensitive 
